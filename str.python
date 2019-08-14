@@ -1,0 +1,4 @@
+string = "abc123"
+print(string.isalnum()) 
+string = "abc 123" 
+print(string.isalnum()) 
